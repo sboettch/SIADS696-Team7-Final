@@ -15,3 +15,9 @@ client_secret_*.json
 gdoc_info.json
 gdoc_image_ids.json
 gdoc_fixed_copy.json
+gdoc_auth.py
+gdoc_update.py
+gdoc_fork_and_fix.py
+gdoc_add_submission.py
+upload_images.py
+generate_three_panel.py
