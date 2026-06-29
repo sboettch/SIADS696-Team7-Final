@@ -1,6 +1,6 @@
 # SIADS 696 Team 7 Final Clean Repository
 
-This folder is a fresh, cleaned copy of the project materials for the SIADS 696 final submission. It is organized around the actual workflow:
+This folder is a cleaned copy of the project materials for the SIADS 696 final submission. It is organized around the actual workflow:
 
 1. source data,
 2. aggregation and cleaning,
