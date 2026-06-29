@@ -1,0 +1,74 @@
+feature,importance,family
+pct_bachelors_or_higher,0.08466460484734036,Education and health access
+annual_temp_anomaly_f,0.0722421393287593,Climate
+pct_less_than_hs,0.06263995719750678,Education and health access
+pct_hs_or_higher,0.057721059083610984,Education and health access
+annual_avg_temp_f,0.05108022504813663,Climate
+median_income,0.04780615347984856,Socioeconomic scale
+precip_1901_2000_mean,0.04485865559472941,Climate
+annual_precip_inches,0.029561993554099525,Climate
+temp_1901_2000_mean,0.028931688694884484,Climate
+annual_precip_anomaly_inches,0.024208263246662483,Climate
+Max AQI,0.02218545630401428,Annual AQI
+pct_professional_admin,0.021881173787181765,Industry composition
+Unhealthy for Sensitive Groups Days,0.01988512072788811,Annual AQI
+pct_finance_real_estate,0.019027957693093282,Industry composition
+Days PM10,0.017808720662058214,Annual AQI
+poverty_count,0.017535826680299602,Socioeconomic scale
+90th Percentile AQI,0.017189110107006748,Annual AQI
+Median AQI,0.01633781557354033,Annual AQI
+pct_uninsured,0.0151247318364444,Education and health access
+pct_insured,0.014700448634537072,Education and health access
+acs_employed_total,0.014674053616211843,Socioeconomic scale
+Moderate Days,0.01395665093628963,Annual AQI
+total_population_numeric,0.013054155332356689,Socioeconomic scale
+unemployed_count,0.012551613386404675,Socioeconomic scale
+population,0.012524168237047118,Socioeconomic scale
+pct_ag_mining,0.0124598235026337,Industry composition
+Good Days,0.01224014927211129,Annual AQI
+acs_civilian_noninstitutionalized_total,0.012043382191903016,Socioeconomic scale
+Days Ozone,0.011902032772445024,Annual AQI
+acs_uninsured_count,0.011514715741473251,Socioeconomic scale
+Days with AQI,0.011444898830908913,Annual AQI
+pct_manufacturing,0.011422616142599158,Industry composition
+Days PM2.5,0.011197462171887312,Annual AQI
+acs_education_25plus_total,0.01107143669740774,Socioeconomic scale
+pct_education_health,0.00931561131199488,Industry composition
+pct_wholesale_trade,0.00924824862297769,Industry composition
+Days NO2,0.009239797943285534,Annual AQI
+pct_information,0.009127263285491934,Industry composition
+pct_arts_food,0.009045913440054527,Industry composition
+pct_retail_trade,0.009020326717356234,Industry composition
+pct_public_admin,0.008917299530471616,Industry composition
+pct_transport_utilities,0.008055376025631337,Industry composition
+Unhealthy Days,0.007381502387523627,Annual AQI
+pct_other_services,0.007337432714502002,Industry composition
+pct_construction,0.007081458874256934,Industry composition
+daily_aqi_monthly_mean_std,0.0036376046299612637,Daily AQI exposure
+daily_aqi_mean,0.0035487059063603176,Daily AQI exposure
+daily_aqi_std,0.0033653732134252424,Daily AQI exposure
+Days CO,0.0032396210283260553,Annual AQI
+daily_aqi_category_days_good,0.0031642498393738413,Daily AQI exposure
+daily_aqi_monthly_mean_max,0.0030342271706548145,Daily AQI exposure
+daily_aqi_max,0.003023038643737375,Daily AQI exposure
+daily_aqi_category_days_moderate,0.00269349251229844,Daily AQI exposure
+daily_aqi_p90,0.002641763781982131,Daily AQI exposure
+daily_aqi_defining_param_days_pm25,0.0025542032221497835,Daily AQI exposure
+daily_aqi_defining_param_days_ozone,0.0025503159032531876,Daily AQI exposure
+daily_aqi_observed_days,0.0023786052586513423,Daily AQI exposure
+daily_aqi_median,0.002268349195104887,Daily AQI exposure
+Very Unhealthy Days,0.0017409673932247361,Annual AQI
+daily_aqi_reporting_sites_mean,0.0014736024230395674,Daily AQI exposure
+daily_aqi_days_over_100,0.0011635646332465604,Daily AQI exposure
+daily_aqi_unhealthy_or_worse_days,0.0010559882701128578,Daily AQI exposure
+daily_aqi_category_days_unhealthy_for_sensitive_groups,0.0010214072027465507,Daily AQI exposure
+Hazardous Days,0.0008839809459649727,Annual AQI
+daily_aqi_defining_param_days_pm10,0.0008374574568237157,Daily AQI exposure
+daily_aqi_defining_param_days_no2,0.0007131372210426153,Daily AQI exposure
+daily_aqi_days_over_150,0.0005239730998027945,Daily AQI exposure
+daily_aqi_category_days_unhealthy,0.00047467550118215896,Daily AQI exposure
+daily_aqi_months_observed,0.0003930504241739465,Daily AQI exposure
+daily_aqi_category_days_very_unhealthy,0.00013395903246039517,Daily AQI exposure
+daily_aqi_defining_param_days_co,0.00011974164116045542,Daily AQI exposure
+daily_aqi_days_over_200,0.00010731133385180924,Daily AQI exposure
+daily_aqi_category_days_hazardous,3.914134902000812e-05,Daily AQI exposure

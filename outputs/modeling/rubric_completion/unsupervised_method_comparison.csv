@@ -1,0 +1,3 @@
+method,params,clusters,noise_pct,silhouette_embedding,silhouette_scaled_features,calinski_harabasz
+DBSCAN,"eps=1.43, min_samples=5",2,0.02169274537695587,0.7602555219302253,0.45139136928468454,
+KMeans,k=2,2,0.0,0.8895015439336781,0.7472536104296109,321.4873475717584

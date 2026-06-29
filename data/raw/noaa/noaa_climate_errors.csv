@@ -1,0 +1,3 @@
+geoid,noaa_location_id,parameter,error
+11001,DC-001,tavg,Failed JSON request after 2 attempts: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/DC-001/tavg/12/12/data.json?raw=1
+11001,DC-001,pcp,Failed JSON request after 2 attempts: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/DC-001/pcp/12/12/data.json?raw=1
