@@ -7,7 +7,7 @@ Primary reviewed artifacts:
 - `notebooks/SIADS_696_Team_7_Final_Report.ipynb`
 - `report/SIADS_696_Team_7_Final_Report_current_cleaned.docx`
 - `report/SIADS_696_Team_7_Final_Report_rubric_cleaned.docx`
-- `outputs/rubric_completion/`
+- `outputs/modeling/rubric_completion/`
 - `notebooks/Supervised_Unsupervised_FMD_Analysis.ipynb`
 - `data/processed/county_panel_enriched.csv`
 
@@ -65,7 +65,7 @@ The remaining submission blockers are: insert GitHub and Google Doc URLs, export
    - Choose one modeling run and make the narrative, tables, and figures match.
 
 5. Strengthen unsupervised sensitivity:
-   - Add a compact DBSCAN `eps/min_samples` search summary or cite `outputs/rubric_completion/unsupervised_method_search.csv`.
+   - Add a compact DBSCAN `eps/min_samples` search summary or cite `outputs/modeling/rubric_completion/unsupervised_method_search.csv`.
    - Add a sentence that K-Means was compared by `k` and selected using silhouette/cluster interpretability.
 
 6. Improve failure-analysis categories:
@@ -82,20 +82,20 @@ The remaining submission blockers are: insert GitHub and Google Doc URLs, export
 
 The repo contains the key supporting files needed to defend the report:
 
-- `notebooks/Final_Report_Reproducible_Visualizations.ipynb`
-- `outputs/reproducible_report_figures/figure_manifest.csv`
-- `outputs/rubric_completion/supervised_cv_metrics_with_sd.csv`
-- `outputs/rubric_completion/rf_feature_importance.csv`
-- `outputs/rubric_completion/rf_feature_family_ablation.csv`
-- `outputs/rubric_completion/rf_sensitivity_grid.csv`
-- `outputs/rubric_completion/supervised_failure_examples.csv`
-- `outputs/rubric_completion/unsupervised_method_comparison.csv`
-- `outputs/rubric_completion/unsupervised_method_search.csv`
-- `outputs/rubric_completion/unsupervised_fmd_anova.csv`
-- `outputs/rubric_completion/figure_dbscan_pca_scatter.png`
-- `outputs/rubric_completion/figure_dbscan_cluster_profile.png`
-- `outputs/rubric_completion/figure_kmeans_pca_scatter.png`
-- `outputs/rubric_completion/figure_kmeans_cluster_profile.png`
+- `notebooks/06_visualization_generation/Final_Report_Reproducible_Visualizations.ipynb`
+- `outputs/visualizations/reproducible_report_figures/figure_manifest.csv`
+- `outputs/modeling/rubric_completion/supervised_cv_metrics_with_sd.csv`
+- `outputs/modeling/rubric_completion/rf_feature_importance.csv`
+- `outputs/modeling/rubric_completion/rf_feature_family_ablation.csv`
+- `outputs/modeling/rubric_completion/rf_sensitivity_grid.csv`
+- `outputs/modeling/rubric_completion/supervised_failure_examples.csv`
+- `outputs/modeling/rubric_completion/unsupervised_method_comparison.csv`
+- `outputs/modeling/rubric_completion/unsupervised_method_search.csv`
+- `outputs/modeling/rubric_completion/unsupervised_fmd_anova.csv`
+- `outputs/modeling/rubric_completion/figure_dbscan_pca_scatter.png`
+- `outputs/modeling/rubric_completion/figure_dbscan_cluster_profile.png`
+- `outputs/modeling/rubric_completion/figure_kmeans_pca_scatter.png`
+- `outputs/modeling/rubric_completion/figure_kmeans_cluster_profile.png`
 
 ## Recommendation
 

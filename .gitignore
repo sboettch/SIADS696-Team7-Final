@@ -10,3 +10,8 @@ env/
 .cache/
 *.tmp
 ~$*.docx
+token.json
+client_secret_*.json
+gdoc_info.json
+gdoc_image_ids.json
+gdoc_fixed_copy.json
